@@ -4,6 +4,7 @@ Home Page:
 
 <img width="1507" alt="image" src="https://github.com/user-attachments/assets/796de14e-1343-4592-afe9-c8b2323f11dd" />
 
+*Priority pages still under development"
 
 ## Technology Stack
 
